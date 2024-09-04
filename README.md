@@ -72,7 +72,6 @@ The project includes various SQL queries that analyze the sales data, such as:
 3. **Run Queries:**
    - Use the provided SQL queries to analyze the data.
 
-## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
